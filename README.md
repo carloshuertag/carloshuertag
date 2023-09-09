@@ -1,6 +1,6 @@
 ###
 I'm a software developer excited about contributing to improve everyone's conditions.😆
-Mexican student of Computer Systems Engineering at ***ESCOM IPN*** since 2019, former student of Software BS and IA & DS BS at ***ETSISI UPM*** and Programming Technician at ***CECyT 9***.
+Mexican student of Computer Systems Engineering at ***ESCOM IPN*** since 2019, former student of Software Bachelor of Arts and Artificial Intelligence and Data Science at ***ETSISI UPM*** and Programming Technician at ***CECyT 9***.
 For any reason you can email me at [chuertag@duck.com](mailto:cheurtag@duck.com)
 ###
 
