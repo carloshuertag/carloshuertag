@@ -1,8 +1,6 @@
-### I'm a software developer excited about contributing to improve everyone's conditions. Mexican student of Computer Systems Engineering at ***ESCOM IPN*** since 2019, and former student of Software BS and IA & DS BS at ***ETSISI UPM***. ###
+# Carlos Huerta García #
 
-## Contact ##
-
-Email me at [chuertag@duck.com](mailto:cheurtag@duck.com)
+### I'm a software developer excited about contributing to improve everyone's conditions. Mexican student of Computer Systems Engineering at ***ESCOM IPN*** since 2019, and former student of Software BS and IA & DS BS at ***ETSISI UPM***. For any reason you can email me at [chuertag@duck.com](mailto:cheurtag@duck.com) ###
 
 ## Languages and tools
 
@@ -29,20 +27,7 @@ Email me at [chuertag@duck.com](mailto:cheurtag@duck.com)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+## Stats ##
+
 ![Carlos Huerta García's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloshuertag&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshuertag&layout=compact)
-
-<!--
-**carloshuertag/carloshuertag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
